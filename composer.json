@@ -1,5 +1,5 @@
 {
-  "name": "patrikpihlstrom/cdon-order-client",
+  "name": "patrik/cdon-order-client",
   "type": "library",
   "require": {
     "phpunit/phpunit": "~6.2.0",
