@@ -1,6 +1,7 @@
 {
   "name": "patrik/cdon-order-client",
   "type": "library",
+  "stability": "stable",
   "minimum-stability": "stable",
   "require": {
     "phpunit/phpunit": "~6.0@stable",
