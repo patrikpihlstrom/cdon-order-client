@@ -2,7 +2,7 @@
   "name": "patrik/cdon-order-client",
   "type": "library",
   "require": {
-    "phpunit/phpunit": "~6.2.0",
+    "phpunit/phpunit": "~6.0.0",
     "guzzlehttp/guzzle-services": "1.*@stable"
   },
   "authors": [
