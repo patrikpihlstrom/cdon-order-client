@@ -4,6 +4,7 @@
   "stability": "stable",
   "minimum-stability": "stable",
   "require": {
+    "phpunit/phpunit": "~6.2.0@stable",
     "guzzlehttp/guzzle-services": "1.*@stable"
   },
   "authors": [
