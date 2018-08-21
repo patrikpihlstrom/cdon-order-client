@@ -1,8 +1,9 @@
 {
   "name": "patrik/cdon-order-client",
   "type": "library",
+  "minimum-stability": "stable",
   "require": {
-    "phpunit/phpunit": "~5.7",
+    "phpunit/phpunit": "~6.0@stable",
     "guzzlehttp/guzzle-services": "1.*@stable"
   },
   "authors": [
